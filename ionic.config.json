@@ -1,5 +1,7 @@
 {
   "name": "NIN",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
